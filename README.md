@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# CI/CD
+This is a react project with CI/CD pipeline utilizing Docker, Travis CI and AWS. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
