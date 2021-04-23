@@ -1,5 +1,5 @@
 # CI/CD
-This is a react project with CI/CD pipeline utilizing Docker, Travis CI and AWS. 
+This is a react project with CI/CD pipeline utilizing Docker, Travis CI and AWS Elastic Beanstalk. 
 
 
 ## Available Scripts
